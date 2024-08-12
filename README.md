@@ -20,7 +20,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Eu tenho 20 anos, moro no Brasil, possuo inglês intermediário, e tenho experiência em HTML5, CSS3, JavaScript, Node.js, Java, C, C++, PHP e Oracle SQL. Atualmente estou cursando na Fatec Mogi das Cruzes, o 5° Semestre de Análise e Desenvolvimento de Sistemas, e busco minha primeira oportunidade na área da programação!
+  - 💬 Eu tenho 20 anos, moro no Brasil, possuo inglês intermediário, e tenho experiência em HTML5, CSS3, JavaScript, Node.js, React, Java, C, C++, PHP e SQL. Atualmente estou cursando na Fatec Mogi das Cruzes, o 5° Semestre de Análise e Desenvolvimento de Sistemas, e busco minha primeira oportunidade na área da programação!
 
   - ⚡ Eu gosto muito de ler, seja livros, quadrinhos ou mangás. Também curto muito ver um bom filme e jogar um game para dar uma relaxada.
 </details>
@@ -34,9 +34,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
+- [React, Vite, CSS](https://github.com/GustavoFSCode/lista_de_tarefas_vite_deploy)
 - [React, Node.js e MySQL - CRUD de Clientes](https://github.com/GustavoFSCode/CRUD-Clientes---Full-Stack-com-Node-React-MySQL)
 - [HTML, CSS e JS - DevLinks](https://github.com/GustavoFSCode/DevLinks)
-- [JavaScript e Node.js - UserSystem](https://github.com/GustavoFSCode/NodeJS-UserSystem)
+- [JS e Node.js - UserSystem](https://github.com/GustavoFSCode/NodeJS-UserSystem)
 
 <!-- GIF -->
 <p align="left">
