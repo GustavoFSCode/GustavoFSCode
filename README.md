@@ -34,7 +34,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [React, Vite, CSS](https://github.com/GustavoFSCode/lista_de_tarefas_vite_deploy)
+- [React, Vite, CSS - Lista de Tarefas](https://github.com/GustavoFSCode/lista_de_tarefas_vite_deploy)
 - [React, Node.js e MySQL - CRUD de Clientes](https://github.com/GustavoFSCode/CRUD-Clientes---Full-Stack-com-Node-React-MySQL)
 - [HTML, CSS e JS - DevLinks](https://github.com/GustavoFSCode/DevLinks)
 - [JS e Node.js - UserSystem](https://github.com/GustavoFSCode/NodeJS-UserSystem)
