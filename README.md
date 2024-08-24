@@ -10,7 +10,7 @@
   Olá 👋, eu sou o Gustavo FSCode.
 
   - 🔭 Universitário em tempo integral
-  - 🌱 Estudando Node.js e JavaScript
+  - 🌱 Estudando React e Next.js
   - 💼 Estou a procura de um estágio
   - 😄 Pronouns: ele/dele
 
