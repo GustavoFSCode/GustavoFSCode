@@ -11,7 +11,6 @@
 
   - 🔭 Universitário em tempo integral
   - 🌱 Estudando React e Next.js
-  - 💼 Estou a procura de um estágio
   - 😄 Pronouns: ele/dele
 
 </p>
