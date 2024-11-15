@@ -32,11 +32,10 @@
 ![GustavoFSCode GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavofscode&show_icons=true&theme=highcontrast)
 
 <!-- Portfolio -->
-## Portfolio:
+## Últimos projetos:
+- [React, CSS, Firebase - Whats2](https://github.com/GustavoFSCode/Whats2)
 - [React, Vite, CSS - Lista de Tarefas](https://github.com/GustavoFSCode/lista_de_tarefas_vite_deploy)
 - [React, Node.js e MySQL - CRUD de Clientes](https://github.com/GustavoFSCode/CRUD-Clientes---Full-Stack-com-Node-React-MySQL)
-- [HTML, CSS e JS - DevLinks](https://github.com/GustavoFSCode/DevLinks)
-- [JS e Node.js - UserSystem](https://github.com/GustavoFSCode/NodeJS-UserSystem)
 
 <!-- GIF -->
 <p align="left">
