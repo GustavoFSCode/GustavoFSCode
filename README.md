@@ -19,7 +19,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Eu tenho 20 anos, moro no Brasil, possuo inglês intermediário, e tenho experiência em HTML5, CSS3, JavaScript, Node.js, React, Java, C, C++, PHP e SQL. Atualmente estou cursando na Fatec Mogi das Cruzes, o 5° Semestre de Análise e Desenvolvimento de Sistemas, e atualmente estou atuando como estágiario front-end com foco em React e Next.js!
+  - 💬 Eu tenho 21 anos, moro no Brasil, possuo inglês avançado, e tenho experiência em HTML5, CSS3, JavaScript, Node.js, React, Java, C, C++, PHP e SQL. Atualmente estou cursando na Fatec Mogi das Cruzes, o 6° Semestre de Análise e Desenvolvimento de Sistemas, e atualmente estou atuando como estágiario front-end com foco em React e Next.js!
 
   - ⚡ Eu gosto muito de ler, seja livros, quadrinhos ou mangás. Também curto muito ver um bom filme e jogar um game para dar uma relaxada.
 </details>
