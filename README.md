@@ -9,7 +9,7 @@
 <p>
   Olá 👋, eu sou o Gustavo FSCode.
 
-  - 🔭 Universitário em tempo integral
+  - 🔭 CLT e Univesitário em tempo integral
   - 🌱 Estudando React e Next.js
   - 😄 Pronouns: ele/dele
 
@@ -27,9 +27,6 @@
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo__santz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ferreira-b26a691b4/)
-
-<!-- GithubStats -->
-![GustavoFSCode GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavofscode&show_icons=true&theme=highcontrast)
 
 <!-- Portfolio -->
 ## Últimos projetos:
