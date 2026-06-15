@@ -7,22 +7,11 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, eu sou o Gustavo FSCode.
+  Hello, I'm Gustavo.
 
-  - 🔭 CLT e Univesitário em tempo integral
-  - 🌱 Estudando React e Next.js
-  - 😄 Pronouns: ele/dele
+  - Studing Kotlin
 
 </p>
-
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Mais sobre mim</summary>
-
-  - 💬 Eu tenho 21 anos, moro no Brasil, possuo inglês avançado, e tenho experiência em HTML5, CSS3, JavaScript, Node.js, React, Java, C, C++, PHP e SQL. Atualmente estou cursando na Fatec Mogi das Cruzes, o 6° Semestre de Análise e Desenvolvimento de Sistemas, e atualmente estou atuando como estágiario front-end com foco em React e Next.js!
-
-  - ⚡ Eu gosto muito de ler, seja livros, quadrinhos ou mangás. Também curto muito ver um bom filme e jogar um game para dar uma relaxada.
-</details>
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo__santz/)
