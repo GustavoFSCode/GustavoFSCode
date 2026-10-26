@@ -4,6 +4,8 @@
 
 I build modern web applications and AI-powered automation tools with **React, Next.js, TypeScript, and Python**, focusing on user experience, maintainable code, and operational efficiency.
 
+I graduated in **Systems Analysis and Development from FATEC**, where I strengthened my programming, analytical thinking, and problem-solving skills—building a solid foundation for the software I develop today.
+
 My experience includes responsive interfaces, scalable front-end applications, internal tools, and AI-assisted workflows. At **CloudWalk**, I contributed to automation initiatives and internal AI solutions, collaborating with engineering and product teams to improve workflows and solve technical challenges.
 
 I'm also starting my journey into **Android development with Kotlin**, expanding my skills into mobile development.
