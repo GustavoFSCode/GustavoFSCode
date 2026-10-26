@@ -10,6 +10,8 @@ My experience includes responsive interfaces, scalable front-end applications, i
 
 I'm also starting my journey into **Android development with Kotlin**, expanding my skills into mobile development.
 
+I'm based in Brazil and looking for opportunities both in Brazil and internationally.
+
 ## Technologies
 
 | Area | Technologies |
@@ -30,5 +32,3 @@ I'm also starting my journey into **Android development with Kotlin**, expanding
 I'm open to **remote opportunities** in software engineering, front-end development, and AI automation.
 
 [LinkedIn](https://www.linkedin.com/in/gustavofscode/)
-
-I'm based in Brazil and looking for opportunities both in Brazil and internationally.
